@@ -1,0 +1,2 @@
+# stablediffusion_webui_for_colab
+AUTOMATIC1111_webui for googlecolaboratoly
